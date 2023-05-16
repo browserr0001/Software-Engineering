@@ -33,16 +33,3 @@ This website is similar to the process of web login before flight boarding. This
 4. 'sql' contains the database file that has to be imported.
 5. 'Output Screenshots' contains the screenshots of the implementation.
 
-## :family_man_woman_boy_boy: Team:
-- Chandana G V - [Chandana](https://github.com/Chandana047)
-- Rithish Reddy - [Rithish](https://github.com/Rithish7007)
-- Balaji Subash - [Subash](https://github.com/gbsubash)
-- SriHarsha - [Harsha](https://github.com/Sriharshajasti123)
-- Varun
-- Mounish
-
-## ✉️ Have an issues or a bug? Would like to contact?
-Report [here](https://github.com/Chandana047/Airlines-seat-reservation-boarding-pass-issuance-and-aircraft-boarding/issues)
-
-## If you liked the project and found it helpful
-Give a start 😄:star:
